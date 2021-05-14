@@ -1,0 +1,65 @@
+
+ [Day #1]  C - Language 1st programe {Hello World}
+
+
+Syntaxes use in this programe
+
+
+First line 
+
+#include <stdio.h>
+Use - eski help se Progrmme run krega.
+
+
+
+
+
+Second Line
+
+int main()
+Use - es funtion se progrmme start hoti hai
+
+"int" means integer hota hai
+
+[every funtion have return value ]
+
+es funtion ke pass jo main funtion hai vo Int return krega And jo return krta hai vo OS ke pas jayega. 
+
+
+
+Third Line
+
+printf
+Use - 'Printf'  header file (#include<stdio.h>) se use hota hai
+
+"printf"  ka use Display pr print/show krta hai (Output).
+
+
+
+Fourth line {last line}
+
+return 0;                                                  
+Use - agr sb thik hua to yeh OS ko zero{0} dega.
+
+
+
+Programmme End
+
+
+
+
+
+All Codes
+
+#include <stdio.h>
+
+int main(int argc, char const *argv[])
+{
+    printf("Hello WorlD\n");
+    return 0;
+}
+
+
+
+____________________________________________________
+
